@@ -131,7 +131,7 @@
   "yuzhong":"Yu_Zhong",
   "luo-yi":"Luo_Yi",
   "luoyi":"Luo_Yi",
-  "luo":"Luo-Yi",
+  "luo":"Luo_Yi",
   "benedetta":"Benedetta",
   "bened":"Benedetta",
   "bene":"Benedetta",
@@ -164,5 +164,15 @@
   "julian":"Julian",
   "fredrin":"Fredrinn",
   "fredrinn":"Fredrinn",
-  "joy":"Joy"
+  "joy":"Joy",
+  "nova": "Novaria",
+  "novaria": "Novaria",
+  "arlott": "Arlott",
+  "arlot": "Arlott",
+  "ixia": "Ixia",
+  "nolan": "Nolan",
+  "cici": "Cici",
+  "chip": "Chip",
+  "zhuxin": "Zhuxin",
+  "suyou": "Suyou"
 }
